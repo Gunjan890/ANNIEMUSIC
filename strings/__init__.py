@@ -3,6 +3,8 @@ from typing import List
 
 import yaml
 
+LOGGERS = "baby_x_Music_Bot"
+
 languages = {}
 languages_present = {}
 
