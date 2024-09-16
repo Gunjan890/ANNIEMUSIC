@@ -16,11 +16,7 @@ from pytgcalls.types.input_stream import AudioPiped, AudioVideoPiped
 from pytgcalls.types.input_stream.quality import HighQualityAudio, MediumQualityVideo
 from pytgcalls.types.stream import StreamAudioEnded
 
-    MediaStream,
-    AudioQuality,
-    VideoQuality,
-    Update,
-
+   
 import config
 from ANNIEMUSIC import LOGGER, YouTube, app
 from ANNIEMUSIC.misc import db
