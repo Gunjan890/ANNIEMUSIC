@@ -23,7 +23,7 @@ def track_markup(_, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -80,7 +80,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -136,7 +136,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -166,7 +166,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -190,7 +190,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -210,7 +210,7 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -240,7 +240,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -282,7 +282,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -316,7 +316,7 @@ def panel_markup_1(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -345,7 +345,7 @@ def panel_markup_2(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
@@ -373,7 +373,7 @@ def panel_markup_3(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🫧⏤͟͟͞ـﮩ♡︎ ˹Ҩ፝֟፝ͷ ꫝɴᴊᴀʟɪ˼ [🇮🇳]",
+                text="♡︎ ˹🇬𝐮𝐧𝐣𝐚𝐧🐬˼ [🇮🇳]",
                 url=f"t.me/{OWNER_USERNAME}",
             ),
             InlineKeyboardButton(
