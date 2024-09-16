@@ -29,7 +29,7 @@ MukeshAPI
 numpy
 openai==1.45.1
 opencv-python
-pillow==10.3.0
+pillow==10.4.0
 psutil
 pickledb
 pornhub-api==0.3.0
