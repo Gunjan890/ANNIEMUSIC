@@ -36,7 +36,7 @@ from ANNIEMUSIC.utils.database import (
 )
 from ANNIEMUSIC.utils.exceptions import AssistantErr
 from ANNIEMUSIC.utils.formatters import check_duration, seconds_to_min, speed_converter
-from ANNIEMUSIC.utils.inline.play import stream_markup, stream_markup2
+from ANNIEMUSIC.utils.inline.play import stream_markup
 from ANNIEMUSIC.utils.stream.autoclear import auto_clean
 from ANNIEMUSIC.utils.thumbnails import get_thumb
 from strings import get_string
