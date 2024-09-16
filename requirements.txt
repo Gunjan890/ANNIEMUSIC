@@ -13,7 +13,7 @@ emojis
 ffmpeg-python
 Faker
 future==1.0.0
-git+https://github.com/Gunjan890/SafoneAPI
+git+https://github.com/AsmSafone/SafoneAPI
 gitpython
 geopy
 gpytranslate
@@ -38,7 +38,7 @@ pycryptodome
 pydub
 pyfiglet
 pykeyboard
-git+https://github.com/Gunjan890/pyrogram
+git+https://github.com/doraemon890/pyrogram
 python-dotenv
 python-telegram-bot==21.1.1
 python-whois
