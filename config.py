@@ -13,23 +13,23 @@ API_HASH = getenv("API_HASH") #⚠️fill or leave
 BOT_TOKEN = getenv("BOT_TOKEN") #⚠️fill or leave 
 
 # Specify where to get the following credentials
-OWNER_USERNAME = getenv("OWNER_USERNAME", "AnjaliOwnerBot") #⚠️replace 
-BOT_USERNAME = getenv("BOT_USERNAME", "TheAnjaliBot") #⚠️replace
-BOT_NAME = getenv("BOT_NAME", "‣ MISS ANJALI") #⚠️replace
-ASSUSERNAME = getenv("ASSUSERNAME", "ANJALIASSISTANT") #⚠️Replace
-EVALOP = list(map(int, getenv("EVALOP", "1841914911").split())) 
+OWNER_USERNAME = getenv("OWNER_USERNAME", None) #⚠️replace 
+BOT_USERNAME = getenv("BOT_USERNAME", None) #⚠️replace
+BOT_NAME = getenv("BOT_NAME", None) #⚠️replace
+ASSUSERNAME = getenv("ASSUSERNAME", None) #⚠️Replace
+EVALOP = list(map(int, getenv("EVALOP", None).split())) 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
-LOGGER_ID = int(getenv("LOGGER_ID", -1001970031336)) #⚠️REPLACE
+LOGGER_ID = int(getenv("LOGGER_ID", -1002293966599)) #⚠️REPLACE
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # External APIs - Get these from their respective providers
 GPT_API = getenv("GPT_API")
 DEEP_API = getenv("DEEP_API")
-OWNER_ID = int(getenv("OWNER_ID", 6260080241)) #⚠️REPLACE
+OWNER_ID = int(getenv("OWNER_ID", 7511932060)) #⚠️REPLACE
 
 # Heroku deployment settings - Refer to Heroku documentation on how to obtain these
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/MAHTO-ANJALI/ANJALIMUSICBOT") #⚠️Don't Change
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Gunjan890/ANNIEMUSIC") #⚠️Don't Change
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master") #⚠️Don't Change
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
