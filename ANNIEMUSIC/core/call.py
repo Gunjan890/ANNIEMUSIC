@@ -601,8 +601,8 @@ class Call(PyTgCalls):
             await self.four.start()
         if config.STRING5:
             await self.five.start()
-
-    async def decorators(self):
+            
+async def decorators(self):
         @self.one.on_kicked()
         @self.two.on_kicked()
         @self.three.on_kicked()
@@ -626,10 +626,9 @@ class Call(PyTgCalls):
         @self.three.on_stream_end()
         @self.four.on_stream_end()
         @self.five.on_stream_end()
-        async def stream_end_handler(client, update: Update):
+        async def stream_end_handler1(client, update: Update):
             if not isinstance(update, StreamAudioEnded):
                 return
             await self.change_stream(client, update.chat_id)
-
-
+            
 JARVIS = Call()
