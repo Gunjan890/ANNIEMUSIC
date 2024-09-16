@@ -6,7 +6,7 @@ from pytgcalls.exceptions import NoActiveGroupCall
 
 import config
 from ANNIEMUSIC import LOGGER, app, userbot
-from ANNIEMUSIC.core.call import ANNIE
+from ANNIEMUSIC.core.call import 
 from ANNIEMUSIC.misc import sudo
 from ANNIEMUSIC.plugins import ALL_MODULES
 from ANNIEMUSIC.utils.database import get_banned_users, get_gbanned
