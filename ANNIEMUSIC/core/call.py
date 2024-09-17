@@ -5,7 +5,7 @@ from typing import Union
 
 from pyrogram import Client
 from pyrogram.types import InlineKeyboardMarkup
-from pytgcalls import 
+from pytgcalls import JARVIS
 from pytgcalls import PyTgCalls
 from pytgcalls.exceptions import (
     AlreadyJoinedError,
