@@ -12,7 +12,6 @@ from pytgcalls.exceptions import (
     TelegramServerError,
 )
 from pytgcalls.types import (
-    AudioQuality,
     VideoQuality,
     Update,
 )
