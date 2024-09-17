@@ -12,8 +12,7 @@ from pytgcalls.exceptions import (
     TelegramServerError,
 )
 from pytgcalls.types import (
-    VideoQuality,
-    Update,
+    
 )
 from pytgcalls.types.stream import StreamAudioEnded
 
